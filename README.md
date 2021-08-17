@@ -1,0 +1,2 @@
+# NewApp
+Ionic Project
